@@ -29,7 +29,7 @@ Soyez libre de proposer des fixes avec des pull requests, je les regarderai.
 
 ## Inviter le bot
 
-Inviter le bot en cliquant ***[ici](https://discord.com/oauth2/authorize?client_id=942152402843361332&permissions=8&scope=bot%20applications.commands)***.
+Inviter le bot en cliquant ***[ici](https://discord.com/api/oauth2/authorize?client_id=942152402843361332&permissions=2151016512&scope=applications.commands%20bot)***.
 ## Cloner le projet
 
 Vous pouvez cloner ce projet en utilisant la commande :

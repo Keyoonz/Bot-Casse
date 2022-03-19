@@ -6,7 +6,7 @@ const wait = require('util').promisify(setTimeout);
 module.exports = {
     data : new SlashCommandBuilder()
         .setName('loop')
-        .setDescription('Loop the current queue/song.')
+        .setDescription('Active/désactive le mode loop.')
         .addSubcommand(subcommand => subcommand
             .setName('queue')
             .setDescription('Loop la queue.')

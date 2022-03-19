@@ -13,6 +13,19 @@ Soyez libre de proposer des fixes avec des pull requests, je les regarderai.
 - Régler le son du bot
 - Gérer le playlist (skip, shuffle, loop ...)
 
+## Commandes
+
+- **help :** donne la liste de toute les commandes
+- **ping :** donne le ping du bot
+- **play :** joue la musique spécifiée
+- **stop :** arrete de jouer de la musique
+- **skip :** joue la musique suivante
+- **pause :** met la musique en pause
+- **resume :** continue de jouer de la musique
+- **queue :** liste les musiques de la queue
+- **shuffle :** melange la queue
+- **loop (song/queue/off) :** active/désactive le mode loop
+- **volume :** regle le volume du bot
 
 ## Inviter le bot
 

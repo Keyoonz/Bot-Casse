@@ -6,7 +6,7 @@ const wait = require('util').promisify(setTimeout);
 module.exports = {
     data : new SlashCommandBuilder()
         .setName('queue')
-        .setDescription('Liste la queue des musiques'),
+        .setDescription('Liste les musiques de la queue.'),
         async execute(interaction) {  
             if (!interaction.member.voice.channel) {
                 interaction.reply({content : 'Connectez vous à un channel vocal.',ephemeral : true});
